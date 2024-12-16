@@ -30,8 +30,7 @@ In the modern AI ecosystem, AI agents need a reliable and secure way to authenti
 The Hello-Message project provides SDKs for the following programming languages:
 
 - [Python](https://github.com/aimxlabs/hello-message-python)
-- [JavaScript](https://github.com/aimxlabs/hello-message-js)
-- [Java](https://github.com/aimxlabs/hello-message-java)
+- [Node.JS](https://github.com/aimxlabs/hello-message-node)
 - Additional languages coming soon!
 
 ## Documentation
