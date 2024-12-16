@@ -1,6 +1,6 @@
 # Welcome to Hello-Message
 
-Hello-Message is a lightweight, open-source protocol and SDK for secure and seamless communication between AI agents and AI-first APIs. The protocol leverages blockchain-based cryptographic signatures for authentication and is designed to integrate into a variety of programming environments.
+Hello-Message is a lightweight, open-source protocol and SDK for secure and seamless communication between AI agents and AI-first services. The protocol leverages blockchain-based cryptographic signatures for authentication and is designed to integrate into a variety of programming environments.
 
 ## Project Overview
 
