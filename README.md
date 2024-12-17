@@ -4,7 +4,7 @@ Hello-Message is a lightweight, open-source protocol and SDK for secure and seam
 
 ## Project Overview
 
-Hello-Message simplifies agent-to-agent and agent-to-API interactions by:
+Hello-Message simplifies agent-to-agent and agent-to-service interactions by:
 
 - Providing a universal "hello" authentication mechanism using Ethereum private keys.
 - Ensuring interoperability across diverse programming languages through SDKs.
@@ -13,7 +13,7 @@ Hello-Message simplifies agent-to-agent and agent-to-API interactions by:
 ## Features
 
 - **Blockchain Authentication**: Use Ethereum-based cryptographic signatures for secure authentication.
-- **Multi-Language Support**: SDKs available for Python, JavaScript, Java, and more.
+- **Multi-Language Support**: SDKs available for Python, JavaScript, and more to come.
 - **Extensibility**: Easily integrable with AI agents, APIs, and distributed systems.
 - **Developer-Friendly**: Lightweight, open-source, and easy to use.
 
@@ -39,7 +39,7 @@ Explore detailed guides, whitepapers, and API references:
 
 - [Whitepaper](docs/whitepaper.md): Learn about the technical architecture and principles of Hello-Message.
 - [API Reference](docs/api/overview.md): Understand how to integrate with Hello-Message APIs.
-- [Examples](examples/): Browse integration examples for Python, JavaScript, and Java.
+- [Examples](examples/): Browse integration examples for Python and JavaScript.
 
 ## Quick Start
 
@@ -66,7 +66,6 @@ Hello-Message is open-source software licensed under the [MIT License](LICENSE).
 
 - [Discussions](https://github.com/aimxlabs/hello-message/discussions): Ask questions, share ideas, and connect with other developers.
 - [Issues](https://github.com/aimxlabs/hello-message/issues): Report bugs or request features.
-- [Changelog](CHANGELOG.md): Stay updated with the latest project developments.
 
 ---
 
