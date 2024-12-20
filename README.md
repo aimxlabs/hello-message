@@ -33,14 +33,6 @@ The Hello-Message project provides SDKs for the following programming languages:
 - [Node.JS](https://github.com/aimxlabs/hello-message-node)
 - Additional languages coming soon!
 
-## Documentation
-
-Explore detailed guides, whitepapers, and API references:
-
-- [Whitepaper](docs/whitepaper.md): Learn about the technical architecture and principles of Hello-Message.
-- [API Reference](docs/api/overview.md): Understand how to integrate with Hello-Message APIs.
-- [Examples](examples/): Browse integration examples for Python and JavaScript.
-
 ## Quick Start
 
 1. **Choose an SDK**: Start with the SDK for your preferred programming language.
