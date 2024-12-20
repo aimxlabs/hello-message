@@ -50,14 +50,6 @@ Explore detailed guides, whitepapers, and API references:
    ```
 3. **Authenticate**: Use the SDK to generate and verify "hello" messages.
 
-## Contributing
-
-We welcome contributions from the community! To get started:
-
-1. Read our [Contributing Guidelines](CONTRIBUTING.md).
-2. Follow our [Code of Conduct](CODE_OF_CONDUCT.md).
-3. Open an issue or submit a pull request.
-
 ## License
 
 Hello-Message is open-source software licensed under the [MIT License](LICENSE).
